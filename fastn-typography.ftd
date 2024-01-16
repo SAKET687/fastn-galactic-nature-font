@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: saket687.github.io/fastn-new-font
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: fastn-new-font package
+site-title: `fastn-new-font`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: saket687.github.io/fastn-new-font
+current-package: saket687.github.io/fastn-new-font
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of fastn-new-font.
 
 -- display-type:
-types: $<repo_name>.types
+types: $fastn-new-font.types
 
 
 -- end: site-doc.doc-home
